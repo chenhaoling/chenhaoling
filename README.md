@@ -2,5 +2,5 @@
 - 👀 I’m interested in deep Learning, data mining, NLP.
 - 🌱 I’m currently learning data mining, machine learning.
 - 💞️ I’m looking to collaborate on data mining and deep learning.
-- 📫 You can drop me an email by ctj21@connect.hku.hk or chentaijie98@gmail.com.
+- 📫 You can drop me an email by ctj21[at]connect[dot]hku[dot]hk , chentaijie98[at]gmail[dot]com or chentj[at]hku[dot]hk.
 - 👀 My personal website is https://chenhaoling.github.io
